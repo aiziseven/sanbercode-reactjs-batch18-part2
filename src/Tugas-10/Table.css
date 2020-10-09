@@ -1,0 +1,22 @@
+#table {
+    border: 1px solid black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#table thead {
+    background-color: gray;
+    font-weight: bold;
+    text-align: center;
+}
+
+#table tbody {
+    background-color: tomato;
+}
+
+#table tbody tr:hover {
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+}
