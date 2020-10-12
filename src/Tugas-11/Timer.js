@@ -60,15 +60,7 @@ class Timer extends Component {
                         </div>
                     )
                 }
-
             </>
-            // <div style={{ textAlign: 'center' }} id='timer'>
-            //     <h1>
-            //         <span>sekarang jam: {this.state.date.toLocaleTimeString()}</span>
-            //         <span>&nbsp;&nbsp;&nbsp;</span>
-            //         <span>hitung mundur: {this.state.showTime && this.state.time}</span>
-            //     </h1>
-            // </div>
         )
     }
 }
