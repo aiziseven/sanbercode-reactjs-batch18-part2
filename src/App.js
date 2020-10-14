@@ -5,7 +5,7 @@ import Form from './Tugas-9/Form';
 import Table from './Tugas-10/Table';
 import Timer from './Tugas-11/Timer';
 import Lists from './Tugas-12/Lists';
-import Crud from './Tugas-12/Crud';
+import Crud from './Tugas-13/Crud';
 
 function App() {
   return (
