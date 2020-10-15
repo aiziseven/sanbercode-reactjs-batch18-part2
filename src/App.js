@@ -6,6 +6,7 @@ import Table from './Tugas-10/Table';
 import Timer from './Tugas-11/Timer';
 import Lists from './Tugas-12/Lists';
 import Crud from './Tugas-13/Crud';
+import Fruit from './Tugas-14/Fruit';
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
       <Form />
       <Timer />
       <Lists /> */}
-      <Crud />
+      <Fruit />
     </div>
   );
 }
