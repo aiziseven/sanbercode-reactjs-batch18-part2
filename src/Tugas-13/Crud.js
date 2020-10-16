@@ -89,6 +89,7 @@ function Crud() {
             </>
             :
             <div>
+                <h1 style={{textAlign:'center'}}>Tugas-13</h1>
                 <h1 style={{ textAlign: 'center' }}>Tabel Harga Buah</h1>
                 <table className='table-crud' id='table-crud'>
                     <thead>

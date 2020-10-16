@@ -15,6 +15,7 @@ class Table extends Component {
     render() {
         return (
             <div>
+                <h1 style={{textAlign:'center'}}>Tugas-10</h1>
                 <h1 style={{ textAlign: 'center' }}>Tabel Harga Buah</h1>
                 <table className='table' id='table'>
                     <thead>

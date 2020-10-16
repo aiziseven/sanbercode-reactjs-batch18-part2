@@ -5,6 +5,7 @@ class Form extends Component {
     render() {
         return (
             <div className="App">
+                <h1>Tugas-9</h1>
                 <form className='container'>
                     <h1>Form Pembelian Buah</h1>
                     <table className='form-center'>

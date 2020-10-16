@@ -8,6 +8,7 @@ import './Fruit.css';
 const Fruit = () => {
     return (
         <FruitProvider>
+            <h1 style={{textAlign:'center'}}>Tugas-14</h1>
             <FruitTable />
             <FruitForm />
         </FruitProvider>

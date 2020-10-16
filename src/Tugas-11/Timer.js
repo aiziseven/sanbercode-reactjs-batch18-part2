@@ -49,6 +49,7 @@ class Timer extends Component {
     render() {
         return (
             <>
+                <h1 style={{textAlign:'center'}}>Tugas-11</h1>
                 {
                     this.state.showTime && (
                         <div style={{ textAlign: 'center' }} id='timer'>
